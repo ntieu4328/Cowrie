@@ -98,7 +98,7 @@ cd cowrie
 ```
 Setup virtual environment, activate it, and download packages:
 ```bash
-python -m venv cowrie-env
+python3 -m venv cowrie-env
 source cowrie-env/bin/activate
 python -m pip install --upgrade pip
 python -m pip install --upgrade -r requirements.txt
