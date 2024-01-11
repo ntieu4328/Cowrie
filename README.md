@@ -7,7 +7,7 @@ The project consists of creating an AWS Ubuntu server to run a honeypot called C
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Bash commands</b> 
+- <b>Bash</b> 
 - <b>AWS</b>
 
 <h2>Environments Used </h2>
