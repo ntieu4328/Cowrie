@@ -1,7 +1,7 @@
 <h1>Cowrie Honeypot</h1>
 
 <h2>Description</h2>
-The project consists of creating an AWS Ubuntu server to run a honeypot called Cowrie. Install the Cowrie honeypot onto a server allows you to see if someone accesses the honeypot. It will also allow you to see what commands or programs a threat actor executes to gain information in real-time.
+The project consists of creating an AWS Ubuntu server to run a honeypot called Cowrie. Installing the Cowrie honeypot onto a server allows you to see if someone accesses the honeypot. It will also allow you to see what commands or programs a threat actor executes to gain information in real-time.
 <br />
 
 
