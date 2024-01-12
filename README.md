@@ -148,11 +148,11 @@ sudo su - cowrie
 ```
 Go into folder to start cowrie:
 ```bash
-cd cowrie/bin
+cd cowrie
 ```
 Start cowrie:
 ```bash
-cowrie start
+bin/cowrie start
 ```
 
 </br>
