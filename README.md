@@ -1,6 +1,6 @@
 <h1>Cowrie Honeypot</h1>
 
-<h2>Description</h2>
+<h2>Description:</h2>
 The project consists of creating an AWS Ubuntu server to run a honeypot called Cowrie. Installing the Cowrie honeypot onto a server allows you to see if someone accesses the honeypot. It will also allow you to see what commands or programs a threat actor executes to gain information in real-time.
 <br />
 
@@ -20,7 +20,7 @@ The project consists of creating an AWS Ubuntu server to run a honeypot called C
 
 <b>Create the AWS server using this guide:</b>
 
-Guide: [AWS server]()
+Guide: [AWS server](https://github.com/ntieu4328/AWS-EC2-Server)
 
 My settings:
   - Application and OS Images: Ubuntu Server 20.04 LTS (HVM), SSD Volume Type
@@ -34,7 +34,7 @@ My settings:
 <br/>
 <b>Create 2 virtual machines:</b>
 
-Guide: [Create Virtual Machine Using VirtualBox]()
+Guide: [Create Virtual Machine Using VirtualBox](https://github.com/ntieu4328/Virtual-Box-Kali-Linux)
 
 One virtual machine will be used to configure Cowrie.
   - Kali Linux
