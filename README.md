@@ -16,6 +16,10 @@ The project consists of creating an AWS Ubuntu server to run a honeypot called C
 - <b>Linux</b>
 - <b>Parrot</b>
 
+<h2>Table of contents:</h2>
+
+[Walk-through](#walk-through)
+
 <h2>Walk-through:</h2>
 
 <b>Create the AWS server using this guide:</b>
